@@ -1,7 +1,3 @@
-
-## README.md 
-
-```markdown
 # AFFC-Net: Adaptive Feature Fusion Convolutional-Graph Network for Histopathological Image Classification
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
